@@ -1,7 +1,7 @@
 callback(
 [
 
-{ "name": "[Q]Development question", "description": "Welcome to Android Enthusiasts' Stack Exchange. This site is for users of Android, which means that questions about *writing* Android apps are off-topic here. (See the [FAQ](http://android.stackexchange.com/faq#what-about-other-android-related-questions).) Programming questions are on-topic on our sister site [Stack Overflow](http://stackoverflow.com/)." },
+{ "name": "[Q]Development question", "description": "This site is for users of Android, which means that questions about *writing* Android apps are off-topic here. (See the [FAQ](http://android.stackexchange.com/faq#what-about-other-android-related-questions).) Programming questions are on-topic on our sister site [Stack Overflow](http://stackoverflow.com/)." },
 { "name": "[Q]More than one question asked", "description": "The question-and-answer format of this site works best if you put each question in a separate question post. Please edit your post down to one question, and create new posts to ask any further questions. You'll get better answers that way."},  
 
 { "name": "[A]Answers just to say Thanks!", "description":  "Please don't add 'thanks' as answers. Invest some time in the site and you will gain sufficient [privileges](http://askubuntu.com/privileges) to upvote answers you like, which is the Android Enthusiasts' way of saying thank you."},
