@@ -2,19 +2,15 @@
 
 In order to ensure quality and help prevent pull requests from breaking the script, we are using [travis-ci.org](http://travis-ci.org) for continuous integration testing. The current status is:
 
-![ProForma Continuous Integration Status](https://secure.travis-ci.org/AskUbuntu/ProFormaComments.png)
+![ProForma Continuous Integration Status](https://secure.travis-ci.org/orac/ProFormaComments.png)
 
 ## Overview
 
-So, on [Ask Ubuntu](http://askubuntu.com), we have a problem.
+So, on the [Android Enthusiasts' Stack Exchange](http://android.stackexchange.com), we have a problem. Users post a lot of off-topic questions, and they are often off-topic for the same reason. In such cases, it's more helpful to add a pro-forma comment explaining why the question is off-topic than to simply close it with the general off-topic description the site gives.
 
-We have a bunch of 'stock' comments that we use, as part of keeping the site running smoothly. More or less, what we do is we use [this userscript](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se) and then store our community suggested comments over [here on meta](http://meta.askubuntu.com/q/1323/6005). 
+Use [this userscript](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se) with the following link as a `remote source`. Then, when you add a comment, an **auto** button appears, letting you fill in the comment automatically from this list.
 
-However, this is a problem, and no longer works for us - mainly, because the pro forma script that I linked to above now has support for remote sources - so this git repo is where we're storing them.
-
-To install them, simply add the following link as a `remote source`:
-
-> https://raw.github.com/askubuntu/ProFormaComments/master/comments.jsonp
+> https://raw.github.com/orac/ProFormaComments/master/comments.jsonp
 
 ## Contributions
 
