@@ -14,7 +14,7 @@ callback(
 { "name": "[A]Answers just to say Thanks!", "description":  "Please don't add 'thanks' as answers. Invest some time in the site and you will gain sufficient [privileges](http://$SITENAME$/privileges) to upvote answers you like, which is the Android Enthusiasts' way of saying thank you."},
 { "name": "[A]Nothing but a URL (and isn't spam) ", "description": "Whilst this may theoretically answer the question, [it would be preferable](http://meta.stackoverflow.com/q/8259) to include the essential parts of the answer here, and provide the link for reference."},
 { "name": "[A]Comments as an answer (new users)", "description": "Please don't add comments as answers. Invest some time in the site and you will gain sufficient [privileges](http://$SITENAME$/privileges) to upvote answers you like, or to add actual comments when seeking clarification of any issues."},
-{ "name": "[A]Comments as an answer (experienced users)", "description": "Please don't add comments as answers. Use actual comments when seeking clarification of any issues."},
+{ "name": "[A]Comments as an answer (experienced users)", "description": "Please don't add comments as answers. Use actual comments when seeking clarification of any issues."}
 ]
 )
 
