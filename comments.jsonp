@@ -15,7 +15,8 @@ callback(
 { "name": "[A]OP commenting to say thanks", "description": "If you're satisfied that this is the right answer, accept it by clicking the green check mark on the left. You get some rep for that, and other visitors can see that this question has been answered."},
 { "name": "[A]Nothing but a URL (and isn't spam)", "description": "Whilst this may theoretically answer the question, [it would be preferable](http://meta.stackoverflow.com/q/8259) to include the essential parts of the answer here, and provide the link for reference."},
 { "name": "[A]Comments as an answer (new users)", "description": "Please don't add comments as answers. Invest some time in the site and you will gain sufficient [privileges](http://$SITENAME$/privileges) to upvote answers you like, or to add actual comments when seeking clarification of any issues."},
-{ "name": "[A]Comments as an answer (experienced users)", "description": "Please don't add comments as answers. Use actual comments when seeking clarification of any issues."}
+{ "name": "[A]Comments as an answer (experienced users)", "description": "Please don't add comments as answers. Use actual comments when seeking clarification of any issues."},
+{ "name": "[A]App recommendation needs a link", "description": "This answer might be more helpful if you [edit] it to add a link to the app you're recommending. Also, please confirm your relationship (if any) with this app: recommending your own app is OK on this site, as long as you're honest."}
 ]
 )
 
